@@ -1,4 +1,4 @@
-# Risk-Management-into-Trading
+# LSTM - Portfolio Optimization
 
 
 ### S0: BUY-HOLD
